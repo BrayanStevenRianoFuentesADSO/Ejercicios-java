@@ -14,6 +14,7 @@ else {
   if (/[A-Z]/.test(contras)) {
     document.write("su contraseña contiene mayusculas <br>")
   }
+
   else {
     document.write("su contraseña deberia contener mayusculas <br>")
 
@@ -32,9 +33,10 @@ else {
         document.write("su contraseña deberia contener numeros")
       }
     }
-
   }
 }
+
+
 
 
 
